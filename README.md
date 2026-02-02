@@ -5,7 +5,8 @@
 # Network Segmentation 
 
 - Bridges will act like a network subnet
-- Each network will have virtual machines/services running
+- Each bridge will have virtual machines/services running
+- Each bridge will live in a single firewalld zone for easy management 
 - The key is to split the network into multiple to avoid traffic congestion
 - Keeps it nice and clean
 
