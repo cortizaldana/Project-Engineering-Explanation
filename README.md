@@ -2,6 +2,10 @@
 
 # The Foundation
 
+- KVM/QEMU
+- Virtualizing everything
+- Keeps cost down
+
 # Network Segmentation 
 
 - Bridges will act like a network subnet
