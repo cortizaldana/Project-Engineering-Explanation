@@ -4,8 +4,6 @@
 <img width="907" height="480" alt="Screenshot from 2026-02-09 10-44-12" src="https://github.com/user-attachments/assets/308969ff-e099-495d-9af3-7c0ca6ee2cf3" />
 
 
-https://github.com/user-attachments/assets/97d9312a-fbd1-477d-97db-009c88c4bf3e
-
 
 # The Foundation
 
