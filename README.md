@@ -1,6 +1,6 @@
 # Project-Engineering-Explanation
 
-<img src="file:///home/isl/Pictures/Screenshots/ProjectEng.png" alt="Alt text" width="300" height="200">
+<img src="ProjectEng.png" alt="Alt text" width="300" height="200">
 
 
 # Building The Foundation For Our Production Like Environment
