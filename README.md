@@ -1,6 +1,6 @@
 # Project-Engineering-Explanation
 
-![Alt text](Project-Images/ProjectEng.png)
+![Alt text](https://github.com/cortizaldana/Project-Images/blob/main/ProjectEng.png)
 
 # Building The Foundation For Our Production Like Environment
 
