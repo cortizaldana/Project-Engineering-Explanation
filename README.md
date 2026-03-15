@@ -1,7 +1,5 @@
 # Project-Engineering-Explanation
 
-<img src="![[ProjectEng.png]]" alt="Alt text" width="300" height="200">
-
 
 # Building The Foundation For Our Production Like Environment
 
