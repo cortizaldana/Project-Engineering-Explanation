@@ -11,7 +11,7 @@
 - Virtualizing will keep cost down
 - This project is all about building the base of our production like env to support future scaling
 
-# Network Segmentation Is What I Will Be Implementing 
+# Network Segmentation Through Bridging 
 
 - Bridges will act like a network subnet
 - Each bridge will have virtual machines/services running
@@ -19,7 +19,7 @@
 - The key is to split the network into multiple to avoid traffic congestion
 - Keeps it nice and clean
 
-# Network Address Translation
+# Bridge Connectivity Through Network Address Translation
 
 - Bridges need to communicate to the outside world
 - Traffic from the bridge will exit out from the host machine
