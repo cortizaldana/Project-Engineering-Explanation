@@ -24,5 +24,3 @@
 # Conculsion 
 
 - This project will allow me to not only scale in the future but keep things nice and clean without having to spend money on infrastructure. I get to work with a variety of tool and come up with solutions by finding work arounds.  
-
-
