@@ -2,9 +2,7 @@
 
 
 
-
-
-# Building The Foundation For Our Production Like Enviornement 
+# Building The Foundation For Our Production Like Environment
 
 - I'll be relying on KVM/QEMU to virtualize everything 
 - Virtualizing will keep cost down
