@@ -4,7 +4,7 @@
 
 
 
-# Building The Foundation For Our Production like env
+# Building The Foundation For Our Production Like Enviornement 
 
 - I'll be relying on KVM/QEMU to virtualize everything 
 - Virtualizing will keep cost down
