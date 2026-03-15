@@ -1,6 +1,6 @@
 # Project-Engineering-Explanation
 
-![Alt text](project-images/ProjectEng.png)
+![Alt text](Project-Images/ProjectEng.png)
 
 # Building The Foundation For Our Production Like Environment
 
